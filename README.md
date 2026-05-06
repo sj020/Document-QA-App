@@ -65,7 +65,7 @@ The application will open in your default web browser at `http://localhost:8501`
 │   └── vector_store/
 │       └── vector_store.py     # Vector database management
 ├── requirements.txt            # Project dependencies
-└── README.md                   # This file
+└── README.md                   
 ```
 
 ## Deactivating the Virtual Environment
@@ -148,7 +148,7 @@ This application implements a **Retrieval-Augmented Generation (RAG)** pipeline 
 
 - **Limited Document Types**: Currently supports only PDF files. Other formats (DOCX, TXT, etc.) are not supported.
 
-### Future Improvements
+## Future Improvements
 
 - Implement evaluation metrics and automated testing
 - Add support for multiple document formats
